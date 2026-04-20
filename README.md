@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Daftar Isi
+## Daftar Isi
 1. [Visi & Deskripsi Proyek](#-visi--deskripsi-proyek)
 2. [Pratinjau Antarmuka (Screenshots)](#-pratinjau-antarmuka-screenshots)
 3. [Fitur Utama & Modul](#-fitur-utama--modul)
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Visi & Deskripsi Proyek
+## Visi & Deskripsi Proyek
 
 **AL-Tex Engineer** bukan sekadar aplikasi mobile biasa. Proyek ini dirancang sebagai solusi komprehensif bagi para engineer dan teknisi di lapangan untuk mengelola alur kerja teknis secara presisi. Dibangun di atas ekosistem **Flutter**, aplikasi ini mengutamakan performa tinggi, sinkronisasi data real-time, dan UI yang intuitif untuk kebutuhan profesional.
 
@@ -36,7 +36,7 @@ Proyek ini merupakan implementasi dari mata kuliah **Pemrograman Aplikasi Berger
 
 ---
 
-## 📸 Pratinjau Antarmuka (Screenshots)
+## Pratinjau Antarmuka (Screenshots)
 
 Aplikasi ini menggunakan filosofi **Material 3 Design** dengan optimasi pada aspek keterbacaan data teknis.
 
@@ -52,7 +52,7 @@ Aplikasi ini menggunakan filosofi **Material 3 Design** dengan optimasi pada asp
 
 ---
 
-## ✨ Fitur Utama & Modul
+## Fitur Utama & Modul
 
 ### 1. Modul Manajemen Proyek
 * **Dynamic Task Allocation:** Penugasan engineer berdasarkan spesialisasi secara otomatis.
@@ -70,7 +70,7 @@ Aplikasi ini menggunakan filosofi **Material 3 Design** dengan optimasi pada asp
 
 ---
 
-## 🏗 Arsitektur Perangkat Lunak
+## Arsitektur Perangkat Lunak
 
 Kami mengadopsi **Clean Architecture** yang dikombinasikan dengan pola **MVVM (Model-View-ViewModel)**. Hal ini memastikan logika bisnis tidak tercampur dengan kode UI.
 
@@ -82,7 +82,7 @@ Kami mengadopsi **Clean Architecture** yang dikombinasikan dengan pola **MVVM (M
 
 ---
 
-## 🛠 Spesifikasi Teknis
+## Spesifikasi Teknis
 
 * **SDK:** Flutter >= 3.10.0 | Dart >= 3.0.0
 * **State Management:** [Provider / GetX / BLoC] - *Pilih salah satu sesuai kodinganmu*
@@ -93,7 +93,7 @@ Kami mengadopsi **Clean Architecture** yang dikombinasikan dengan pola **MVVM (M
 
 ---
 
-## 📂 Struktur Proyek (Deep Dive)
+## Struktur Proyek (Deep Dive)
 
 Struktur folder diatur secara modular agar memudahkan kolaborasi tim besar:
 
@@ -128,7 +128,7 @@ Struktur folder diatur secara modular agar memudahkan kolaborasi tim besar:
 
 -----
 
-## ⚙️ Panduan Instalasi & Konfigurasi
+## Panduan Instalasi & Konfigurasi
 
 ### Langkah 1: Kloning Repositori
 
@@ -173,7 +173,7 @@ flutter run --release
 
 -----
 
-## 🔄 Manajemen State & Aliran Data
+## Manajemen State & Aliran Data
 
 Kami memastikan data mengalir secara satu arah (*Unidirectional Data Flow*):
 
@@ -185,7 +185,7 @@ Kami memastikan data mengalir secara satu arah (*Unidirectional Data Flow*):
 
 -----
 
-## 🛡 Standar Penulisan Kode (Linting)
+## Standar Penulisan Kode (Linting)
 
 Proyek ini mengikuti standar `flutter_lints`. Pastikan tidak ada *warning* sebelum melakukan *commit*:
 
@@ -196,7 +196,7 @@ Proyek ini mengikuti standar `flutter_lints`. Pastikan tidak ada *warning* sebel
 
 -----
 
-## 🧪 Pengujian (Testing)
+## Pengujian (Testing)
 
 Kualitas kode adalah prioritas utama. Kami menerapkan:
 
@@ -212,7 +212,7 @@ flutter test
 
 -----
 
-## 👨‍💻 Kontributor & Tim
+## Kontributor & Tim
 
 Proyek ini dikembangkan oleh
   * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
