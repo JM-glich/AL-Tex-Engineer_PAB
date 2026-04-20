@@ -216,7 +216,7 @@ flutter test
 
 Proyek ini dikembangkan oleh
   * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
-  * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
+  * **Jemis Movid** (2409116070) - *Front End & Tester*
   * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
   * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
   * **Instansi:** Program Studi Sistem Informasi, Universitas Mulawarman
