@@ -42,11 +42,11 @@ Aplikasi ini menggunakan filosofi **Material 3 Design** dengan optimasi pada asp
 
 | Authentication | Dashboard Utama | Data Engineering |
 | :---: | :---: | :---: |
-| ![Login](assets/images/sc_login.png) | ![Dashboard](assets/images/sc_dashboard.png) | ![Data](assets/images/sc_data.png) |
+| ![Login](DokumentasiHasil/Login.jpeg) | ![Dashboard](DokumentasiHasil/DashboardUser.jpeg) | ![Data](DokumentasiHasil/ItemEditor.jpeg) |
 
-| Project Detail | Monitoring Real-time | User Profile |
-| :---: | :---: | :---: |
-| ![Detail](assets/images/sc_detail.png) | ![Monitoring](assets/images/sc_monitor.png) | ![Profile](assets/images/sc_profile.png) |
+| Product Detail | Monitoring Real-time |
+| :---: | :---: |
+| ![Detail](DokumentasiHasil/ProductDetail.jpeg) | ![Monitoring](DokumentasiHasil/Filter.jpeg) |
 
 > **Catatan:** Semua aset gambar di atas dapat ditemukan pada direktori `assets/images/`. Pastikan untuk melakukan kompresi gambar sebelum deployment untuk menjaga ukuran APK tetap ringan.
 
