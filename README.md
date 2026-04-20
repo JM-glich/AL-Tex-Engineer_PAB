@@ -1,7 +1,7 @@
-# Fktaa Indah: Professional Mobile Solution
+# Fakta Indah: Professional Mobile Solution
 ## Enterprise-Grade Technical Engineering Management System
 
-![Banner App](assets/images/banner_readme.png)
+![Banner App](assets/images/LogoApk.png)
 
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![Dart Version](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart)](https://dart.dev)
