@@ -218,6 +218,7 @@ Proyek ini dikembangkan oleh
   * **Instansi:** Program Studi Sistem Informasi, Universitas Mulawarman
   * **Angkatan:** 2024 B
 
+
 -----
 
 
