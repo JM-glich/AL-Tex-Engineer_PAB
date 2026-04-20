@@ -12,8 +12,8 @@
 ---
 
 ## Daftar Isi
-1. [Visi & Deskripsi Proyek](#-visi--deskripsi-proyek)
-2. [Pratinjau Antarmuka (Screenshots)](#-pratinjau-antarmuka-screenshots)
+1. [Visi & Deskripsi Proyek](##-visi--deskripsi-proyek)
+2. [Pratinjau Antarmuka (Screenshots)](##-pratinjau-antarmuka-screenshots)
 3. [Fitur Utama & Modul](#-fitur-utama--modul)
 4. [Arsitektur Perangkat Lunak](#-arsitektur-perangkat-lunak)
 5. [Spesifikasi Teknis](#-spesifikasi-teknis)
