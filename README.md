@@ -1,4 +1,4 @@
-# AL-Tex Engineer: Professional Mobile Solution
+# Fktaa Indah: Professional Mobile Solution
 ## Enterprise-Grade Technical Engineering Management System
 
 ![Banner App](assets/images/banner_readme.png)
@@ -6,7 +6,7 @@
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![Dart Version](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart)](https://dart.dev)
 [![Architecture](https://img.shields.io/badge/Architecture-Clean--MVVM-green?style=for-the-badge)](https://pub.dev)
-[![Maintainer](https://img.shields.io/badge/Maintainer-DharmaPalaCandra-orange?style=for-the-badge)](https://github.com/JM-glich)
+[![Maintainer](https://img.shields.io/badge/Maintainer-AltexEngineer-orange?style=for-the-badge)](https://github.com/JM-glich)
 [![Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)]()
 
 ---
@@ -30,7 +30,7 @@
 
 ## Visi & Deskripsi Proyek
 
-**AL-Tex Engineer** bukan sekadar aplikasi mobile biasa. Proyek ini dirancang sebagai solusi komprehensif bagi para engineer dan teknisi di lapangan untuk mengelola alur kerja teknis secara presisi. Dibangun di atas ekosistem **Flutter**, aplikasi ini mengutamakan performa tinggi, sinkronisasi data real-time, dan UI yang intuitif untuk kebutuhan profesional.
+**Fakta Indah** bukan sekadar aplikasi mobile biasa. Proyek ini dirancang sebagai solusi komprehensif bagi para engineer dan teknisi di lapangan untuk mengelola alur kerja teknis secara presisi. Dibangun di atas ekosistem **Flutter**, aplikasi ini mengutamakan performa tinggi, sinkronisasi data real-time, dan UI yang intuitif untuk kebutuhan profesional.
 
 Proyek ini merupakan implementasi dari mata kuliah **Pemrograman Aplikasi Bergerak (PAB)**, yang menggabungkan prinsip-prinsip rekayasa perangkat lunak modern, termasuk pemisahan perhatian (*separation of concerns*), skalabilitas, dan kemudahan pemeliharaan (*maintainability*).
 
@@ -217,8 +217,8 @@ flutter test
 Proyek ini dikembangkan oleh
   * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
   * **Jemis Movid** (2409116070) - *Front End & Tester*
-  * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
-  * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
+  * **Nama** (24091160) - *Kerjaan*
+  * **Nama** (24091160) - *Kerjaan*
   * **Instansi:** Program Studi Sistem Informasi, Universitas Mulawarman
   * **Angkatan:** 2024 B
 
