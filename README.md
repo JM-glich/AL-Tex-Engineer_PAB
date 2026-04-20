@@ -55,17 +55,13 @@ Aplikasi ini menggunakan filosofi **Material 3 Design** dengan optimasi pada asp
 ## Fitur Utama & Modul
 
 ### 1. Modul Manajemen Proyek
-* **Dynamic Task Allocation:** Penugasan engineer berdasarkan spesialisasi secara otomatis.
 * **Progress Tracking:** Visualisasi progres proyek menggunakan progress bar kustom.
-* **Priority System:** Labeling tingkat urgensi pada setiap tiket pekerjaan.
+* **Crud System:** Crud Barang pada Toko berbasis Mobile.
 
 ### 2. Modul Autentikasi & Keamanan
-* **Secure Auth:** Integrasi JWT/Supabase Auth dengan proteksi session.
-* **Role-Based Access Control (RBAC):** Perbedaan hak akses antara Admin, Lead Engineer, dan Field Technician.
-* **Biometric Ready:** Struktur kode yang disiapkan untuk integrasi FaceID/Fingerprint.
+* **Role-Based Access Control (RBAC):** Perbedaan hak akses antara Admin, dan User.
 
 ### 3. Modul Sinkronisasi Data
-* **Offline First:** Kemampuan input data saat tidak ada sinyal, dengan sinkronisasi otomatis saat online.
 * **Cloud Integration:** Terhubung langsung dengan database cloud (Supabase/Firebase) untuk integritas data.
 
 ---
