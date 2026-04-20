@@ -12,19 +12,19 @@
 ---
 
 ## Daftar Isi
-1. [Visi & Deskripsi Proyek](##-visi--deskripsi-proyek)
-2. [Pratinjau Antarmuka (Screenshots)](##-pratinjau-antarmuka-screenshots)
-3. [Fitur Utama & Modul](#-fitur-utama--modul)
-4. [Arsitektur Perangkat Lunak](#-arsitektur-perangkat-lunak)
-5. [Spesifikasi Teknis](#-spesifikasi-teknis)
-6. [Struktur Proyek (Deep Dive)](#-struktur-proyek-deep-dive)
-7. [Panduan Instalasi & Konfigurasi](#-panduan-instalasi--konfigurasi)
-8. [Manajemen State & Aliran Data](#-manajemen-state--aliran-data)
-9. [Integrasi Backend & Database](#-integrasi-backend--database)
-10. [Standar Penulisan Kode (Linting)](#-standar-penulisan-kode-linting)
-11. [Pengujian (Testing)](#-pengujian-testing)
-12. [Panduan Deployment](#-panduan-deployment)
-13. [Kontributor & Tim](#-kontributor--tim)
+1. [Visi & Deskripsi Proyek](#visi--deskripsi-proyek)
+2. [Pratinjau Antarmuka (Screenshots)](#pratinjau-antarmuka-screenshots)
+3. [Fitur Utama & Modul](#fitur-utama--modul)
+4. [Arsitektur Perangkat Lunak](#arsitektur-perangkat-lunak)
+5. [Spesifikasi Teknis](#spesifikasi-teknis)
+6. [Struktur Proyek (Deep Dive)](#struktur-proyek-deep-dive)
+7. [Panduan Instalasi & Konfigurasi](#panduan-instalasi--konfigurasi)
+8. [Manajemen State & Aliran Data](#manajemen-state--aliran-data)
+9. [Integrasi Backend & Database](#integrasi-backend--database)
+10. [Standar Penulisan Kode (Linting)](#standar-penulisan-kode-linting)
+11. [Pengujian (Testing)](#pengujian-testing)
+12. [Panduan Deployment](#panduan-deployment)
+13. [Kontributor & Tim](#kontributor--tim)
 
 ---
 
