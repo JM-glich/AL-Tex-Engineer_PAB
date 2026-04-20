@@ -24,8 +24,7 @@
 10. [Standar Penulisan Kode (Linting)](#-standar-penulisan-kode-linting)
 11. [Pengujian (Testing)](#-pengujian-testing)
 12. [Panduan Deployment](#-panduan-deployment)
-13. [Rencana Pengembangan (Roadmap)](#-rencana-pengembangan-roadmap)
-14. [Kontributor & Tim](#-kontributor--tim)
+13. [Kontributor & Tim](#-kontributor--tim)
 
 ---
 
@@ -213,22 +212,12 @@ flutter test
 
 -----
 
-## 🚧 Rencana Pengembangan (Roadmap)
-
-  - [x] Inisialisasi Project & Arsitektur
-  - [x] Integrasi Autentikasi Dasar
-  - [x] Pengembangan Dashboard UI
-  - [ ] Implementasi Push Notifications (FCM)
-  - [ ] Fitur Export Report ke PDF/Excel
-  - [ ] Integrasi Map & Geolocation untuk Teknisi
-  - [ ] Dark Mode Support secara menyeluruh
-
------
-
 ## 👨‍💻 Kontributor & Tim
 
-Proyek ini dikembangkan oleh:
-
+Proyek ini dikembangkan oleh
+  * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
+  * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
+  * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
   * **Dharma Pala Candra** (2409116065) - *Lead Developer & System Analyst*
   * **Instansi:** Program Studi Sistem Informasi, Universitas Mulawarman
   * **Angkatan:** 2024 B
