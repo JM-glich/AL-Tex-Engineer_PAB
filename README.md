@@ -68,8 +68,6 @@ Aplikasi ini menggunakan filosofi **Material 3 Design** dengan optimasi pada asp
 
 ## Arsitektur Perangkat Lunak
 
-Kami mengadopsi **Clean Architecture** yang dikombinasikan dengan pola **MVVM (Model-View-ViewModel)**. Hal ini memastikan logika bisnis tidak tercampur dengan kode UI.
-
 ### Layer-layer Arsitektur:
 1.  **Core Layer:** Berisi konstanta global, tema aplikasi, dan helper fungsi utilitas.
 2.  **Data Layer:** Bertanggung jawab atas pengambilan data (Remote Data Source & Local Data Source) serta implementasi Repositori.
@@ -81,7 +79,7 @@ Kami mengadopsi **Clean Architecture** yang dikombinasikan dengan pola **MVVM (M
 ## Spesifikasi Teknis
 
 * **SDK:** Flutter >= 3.10.0 | Dart >= 3.0.0
-* **State Management:** [Provider / GetX / BLoC] - *Pilih salah satu sesuai kodinganmu*
+* **State Management:** GetX
 * **Local Database:** Hive / SQLite (untuk caching)
 * **Remote Service:** Supabase / REST API
 * **Networking:** Dio / Http dengan Interceptor
